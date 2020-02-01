@@ -1,0 +1,1 @@
+This is a recreation of the classic game, Snake, built with Python and the pygame module.
